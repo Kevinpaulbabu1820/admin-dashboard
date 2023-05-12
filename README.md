@@ -1,2 +1,2 @@
 # micro-task-
-A Website built with NextJS
+A Website built with React JS
